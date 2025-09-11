@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @robo-karlix
-- 👀 I’m interested in robots
+- 👋 Hi, I’m karlix
+- 👀 I’m interested in robots, space tech and windows phone
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on servers
+- 💞️ I’m looking to collaborate windows phone
 - 📫 How to reach me sk10204@ogrespamatskola.lv
-- 😄 Pronouns: i have a server
-- ⚡ Fun fact: tomarow i turn 13
+- 😄 Pronouns: i have 18 pc
+- ⚡ Fun fact: im 13
 
 <!---
 robo-karlix/robo-karlix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
