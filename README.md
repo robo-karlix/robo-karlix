@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate windows phone
 - 📫 How to reach me sk10204@ogrespamatskola.lv
-- 😄 Pronouns: i have 18 pc
+- 😄 Pronouns: i have 20 pc's
 - ⚡ Fun fact: im 13
 
 <!---
